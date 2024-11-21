@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taoufikmarki/quran/static/css/main.a6990e99.css",
-    "main.js": "/taoufikmarki/quran/static/js/main.be738c9a.js",
+    "main.js": "/taoufikmarki/quran/static/js/main.1a844e12.js",
     "reactPlayerYouTube.js": "/taoufikmarki/quran/static/js/reactPlayerYouTube.4a6fe2ba.chunk.js",
     "reactPlayerSoundCloud.js": "/taoufikmarki/quran/static/js/reactPlayerSoundCloud.8bc0f57e.chunk.js",
     "reactPlayerVimeo.js": "/taoufikmarki/quran/static/js/reactPlayerVimeo.f8181d3b.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/logo.png": "/taoufikmarki/quran/static/media/logo.901f17befc2d042f42b9.png",
     "index.html": "/taoufikmarki/quran/index.html",
     "main.a6990e99.css.map": "/taoufikmarki/quran/static/css/main.a6990e99.css.map",
-    "main.be738c9a.js.map": "/taoufikmarki/quran/static/js/main.be738c9a.js.map",
+    "main.1a844e12.js.map": "/taoufikmarki/quran/static/js/main.1a844e12.js.map",
     "reactPlayerYouTube.4a6fe2ba.chunk.js.map": "/taoufikmarki/quran/static/js/reactPlayerYouTube.4a6fe2ba.chunk.js.map",
     "reactPlayerSoundCloud.8bc0f57e.chunk.js.map": "/taoufikmarki/quran/static/js/reactPlayerSoundCloud.8bc0f57e.chunk.js.map",
     "reactPlayerVimeo.f8181d3b.chunk.js.map": "/taoufikmarki/quran/static/js/reactPlayerVimeo.f8181d3b.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.a6990e99.css",
-    "static/js/main.be738c9a.js"
+    "static/js/main.1a844e12.js"
   ]
 }
